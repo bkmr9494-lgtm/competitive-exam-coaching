@@ -1,0 +1,174 @@
+{
+  "institute": {
+    "name": "Premium Coaching Institute",
+    "tagline": "Excellence in Education",
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@yourinstitute.com",
+    "address": "Your Institute Address, City, State - PIN Code"
+  },
+  "admission": {
+    "process": "Our admission process is simple: 1) Fill the enquiry form on our website, 2) Attend a free counselling session with our experts, 3) Complete registration and document verification, 4) Join your batch and start learning.",
+    "registration": "Registration can be done both online and offline. For online registration, visit our website and fill the form. For offline registration, visit our nearest center with required documents.",
+    "documents": "Required documents for admission: Aadhar card, 2 passport size photographs, educational certificates (10th, 12th, graduation mark sheets), address proof, and 2 passport size photographs.",
+    "eligibility": "Eligibility criteria vary by course. For UPSC: Bachelor's degree from recognized university. For SSC: Bachelor's degree for graduate level posts, 12th pass for higher secondary level. For Banking: Bachelor's degree. For Defence: Varies by exam (10th/12th/Graduation).",
+    "timing": "Admissions are open throughout the year. New batches start every month. Early registration is recommended to secure your seat."
+  },
+  "fees": {
+    "structure": "Our fee structure varies by course and duration. UPSC: ₹45,000-₹85,000, SSC: ₹25,000-₹45,000, Banking: ₹20,000-₹35,000, Railway: ₹18,000-₹30,000, Defence: ₹22,000-₹40,000, State PCS: ₹30,000-₹55,000. Contact for exact details.",
+    "payment": "We accept all payment modes including cash, card, UPI, net banking, and cheques. EMI options are available for most courses with 0% interest.",
+    "installment": "Yes, we offer flexible installment plans. You can pay in 2-4 installments depending on the course. First installment due at admission, remaining installments can be paid monthly.",
+    "scholarship": "We offer scholarships based on: 1) Merit in scholarship test (up to 100%), 2) Academic performance (up to 50%), 3) Economically weaker sections (up to 30%), 4) Defense personnel wards (up to 40%). Register for our scholarship test!",
+    "refund": "Refund policy: 100% refund within 7 days of admission if you're not satisfied. After 7 days, refund is subject to terms and conditions."
+  },
+  "courses": {
+    "upsc": {
+      "name": "UPSC Civil Services",
+      "description": "Complete preparation for UPSC Civil Services Examination including Prelims, Mains, and Interview guidance.",
+      "duration": "12-18 months",
+      "fee": "₹45,000-₹85,000",
+      "mode": "Both Online & Offline",
+      "features": ["Complete syllabus coverage", "Current affairs integration", "Test series included", "Interview guidance", "Answer writing practice", "Personal mentorship"]
+    },
+    "ssc": {
+      "name": "SSC Exams",
+      "description": "Complete preparation for SSC CGL, CHSL, MTS, GD Constable, and other SSC examinations.",
+      "duration": "6-12 months",
+      "fee": "₹25,000-₹45,000",
+      "mode": "Both Online & Offline",
+      "features": ["Bilingual classes", "Daily practice tests", "Speed math training", "Previous year analysis", "Mock interviews"]
+    },
+    "banking": {
+      "name": "Banking Exams",
+      "description": "Complete preparation for IBPS PO, Clerk, SBI PO, Clerk, RBI Grade B, and other banking exams.",
+      "duration": "4-8 months",
+      "fee": "₹20,000-₹35,000",
+      "mode": "Both Online & Offline",
+      "features": ["Quantitative aptitude focus", "Reasoning shortcuts", "English improvement", "Banking awareness", "Mock interviews"]
+    },
+    "railway": {
+      "name": "Railway Exams",
+      "description": "Complete preparation for RRB NTPC, Group D, JE, ALP, and other railway examinations.",
+      "duration": "4-6 months",
+      "fee": "₹18,000-₹30,000",
+      "mode": "Both Online & Offline",
+      "features": ["Technical & non-technical", "Online test series", "Previous year papers", "Doubt clearing sessions"]
+    },
+    "defence": {
+      "name": "Defence Services",
+      "description": "Complete preparation for NDA, CDS, AFCAT, CAPF, and other defence services examinations.",
+      "duration": "6-12 months",
+      "fee": "₹22,000-₹40,000",
+      "mode": "Both Online & Offline",
+      "features": ["Written exam preparation", "SSB interview training", "Physical fitness guidance", "Personality development", "GK & current affairs"]
+    },
+    "state_pcs": {
+      "name": "State PCS",
+      "description": "Complete preparation for State Public Service Commission examinations with state-specific focus.",
+      "duration": "8-14 months",
+      "fee": "₹30,000-₹55,000",
+      "mode": "Both Online & Offline",
+      "features": ["State-specific material", "Regional language support", "Current affairs focus", "Test series", "Interview guidance"]
+    },
+    "cuet": {
+      "name": "CUET",
+      "description": "Complete preparation for Common University Entrance Test for undergraduate admissions.",
+      "duration": "3-6 months",
+      "fee": "₹15,000-₹25,000",
+      "mode": "Both Online & Offline",
+      "features": ["Domain subjects", "General test", "Language proficiency", "Practice papers", "Mock tests"]
+    },
+    "nda_cds": {
+      "name": "NDA/CDS",
+      "description": "Specialized preparation for National Defence Academy and Combined Defence Services examinations.",
+      "duration": "6-10 months",
+      "fee": "₹20,000-₹35,000",
+      "mode": "Both Online & Offline",
+      "features": ["Written + SSB preparation", "Physical training guidance", "Mathematics focus", "GK preparation", "Personality development"]
+    }
+  },
+  "batch": {
+    "timings": "We have multiple batches: Morning (7 AM - 10 AM), Afternoon (12 PM - 3 PM), Evening (5 PM - 8 PM), and Weekend batches (Sat-Sun). Choose as per your convenience.",
+    "schedule": "New batches start on the 1st and 15th of every month. Early registration is recommended to secure preferred timing.",
+    "size": "Our batch size is limited to 40-50 students to ensure personal attention to each student.",
+    "duration": "Classes are held 6 days a week (Monday to Saturday). Sunday is reserved for doubt sessions and extra classes."
+  },
+  "demo": {
+    "booking": "You can book a free demo class by: 1) Filling the contact form on our website, 2) Calling our admissions team, 3) Visiting our nearest center. Demo classes are completely free!",
+    "timing": "Demo classes are available Monday to Saturday between 10 AM to 6 PM. You can choose any subject for demo.",
+    "online": "Yes, we offer online demo classes as well. Contact our team to get the demo class link. Online demo gives you the same experience as classroom.",
+    "duration": "Demo class duration is 45-60 minutes where you can experience our teaching methodology and interact with faculty."
+  },
+  "facilities": {
+    "hostel": "We provide hostel facility assistance for outstation students. We have tie-ups with nearby hostels offering safe and affordable accommodation. Monthly charges range from ₹5,000-₹10,000 including food.",
+    "library": "Our library is well-stocked with thousands of books, journals, and magazines. Library timings: 8 AM to 8 PM on all working days. Students can borrow books for home study.",
+    "online": "All our courses are available online with: Live interactive classes, Recorded lecture library (24/7 access), Mobile app for learning on the go, Online test series, Digital study material.",
+    "classroom": "Our classrooms are smart classrooms equipped with: Projectors, Audio systems, Air conditioning, Comfortable seating, High-speed WiFi.",
+    "app": "We have a dedicated mobile app available on Android and iOS. Features: Watch recorded lectures, Take online tests, Access study material, Track progress, Get notifications.",
+    "doubt": "Regular doubt clearing sessions are conducted: Daily after class, Weekly dedicated doubt sessions, Online doubt support via app, One-on-one faculty interaction."
+  },
+  "faculty": {
+    "information": "Our faculty members are highly qualified with experience from top institutions. They include: Ex-civil servants, IIT/IIM graduates, Subject matter experts, Industry professionals.",
+    "qualification": "Minimum qualification for our faculty: Post-graduation in relevant subject, NET/PhD qualified, 5+ years teaching experience, Subject expertise certification.",
+    "availability": "Faculty is available for: Doubt clearing after class, Personal mentorship sessions, Online doubt resolution, Parent-teacher meetings."
+  },
+  "study_material": {
+    "description": "We provide comprehensive study material including: Printed books for each subject, Class notes, Practice workbooks, Previous year papers, Current affairs magazine, Online question bank.",
+    "updates": "Study material is updated regularly to match: Latest exam pattern, Current syllabus changes, Recent exam trends, New question types.",
+    "language": "Study material is available in: English, Hindi, and bilingual format as per student preference."
+  },
+  "test_series": {
+    "description": "We provide comprehensive test series with: Topic-wise tests, Sectional tests, Full-length mock tests, Previous year paper tests, All India mock tests.",
+    "analysis": "Detailed performance analysis includes: Score breakdown, Time management analysis, Strength/weakness report, All India rank, Percentile score, Comparison with toppers.",
+    "frequency": "Tests are conducted: Weekly topic tests, Monthly sectional tests, Full-length mocks before exams, Special test series during exam season."
+  },
+  "contact": {
+    "phone": "You can reach us at +91-XXXXXXXXXX or +91-XXXXXXXXXX (alternate number). Our team is available 9 AM to 8 PM.",
+    "email": "Email us at info@yourinstitute.com for general queries or admissions@yourinstitute.com for admission-related queries.",
+    "address": "Visit us at: Your Institute Address, Main Road, City, State - PIN Code. We are located near [landmark].",
+    "timing": "Center timings: Monday to Saturday - 9 AM to 8 PM, Sunday - 10 AM to 5 PM. Admissions desk is open during all working hours.",
+    "branches": "We have branches in: [City 1], [City 2], [City 3], [City 4]. All branches offer the same quality education and facilities."
+  },
+  "scholarship": {
+    "test": "We conduct scholarship tests monthly. Test covers: General knowledge, Reasoning, Mathematics, English. Based on performance, you can win up to 100% scholarship.",
+    "registration": "Scholarship test registration is FREE. Register by filling the form on our website or visiting our center. Test is conducted both online and offline.",
+    "results": "Scholarship results are declared within 3 days of the test. Winners are notified via phone, email, and SMS.",
+    "types": "Scholarship types: Merit-based (up to 100%), Need-based (up to 50%), Girl child scholarship (up to 30%), Defense ward scholarship (up to 40%)."
+  },
+  "hostel": {
+    "facilities": "Hostel facilities include: 24/7 security, WiFi, Mess service, Study room, Recreation area, Laundry service, Medical assistance.",
+    "charges": "Hostel charges range from ₹5,000-₹10,000 per month including food. AC rooms are available at additional cost.",
+    "location": "Hostels are located within 1-2 km from the institute. Transport facility is available between hostel and institute."
+  },
+  "faq": [
+    {
+      "question": "What is the success rate of your institute?",
+      "answer": "Our overall success rate is 85% with over 500 selections in 2024. Our top batch has 100% success rate."
+    },
+    {
+      "question": "Do you provide placement assistance?",
+      "answer": "Yes, we provide placement assistance for banking and corporate sector exams. We also conduct mock interviews and personality development sessions."
+    },
+    {
+      "question": "Can I change my batch timing later?",
+      "answer": "Yes, subject to availability, you can change your batch timing. Contact the administration for batch change requests."
+    },
+    {
+      "question": "Is there any age limit for courses?",
+      "answer": "Age limit varies by exam. For UPSC: 21-32 years, SSC: 18-30 years, Banking: 20-30 years, Railway: 18-33 years. Check specific exam notification."
+    },
+    {
+      "question": "Do you provide interview guidance?",
+      "answer": "Yes, we provide comprehensive interview guidance including mock interviews, personality development, communication skills training, and current affairs preparation."
+    },
+    {
+      "question": "Can I pause my course if needed?",
+      "answer": "Yes, you can pause your course for valid reasons (medical, personal). The course duration can be extended accordingly. Contact administration for details."
+    }
+  ],
+  "cta": {
+    "demo": "Book your free demo class today! Call us at +91-XXXXXXXXXX or fill the enquiry form.",
+    "counselling": "Get free career counselling from our experts. Visit our center or book an online session.",
+    "scholarship": "Register for our scholarship test and win up to 100% discount on course fee!",
+    "contact": "Have questions? Contact our admissions team at +91-XXXXXXXXXX or email us at info@yourinstitute.com"
+  }
+}
